@@ -1,2 +1,4 @@
 pynput
 xlsxwriter
+pyserial
+matplotlib
